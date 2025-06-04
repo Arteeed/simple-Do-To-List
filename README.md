@@ -1,7 +1,7 @@
 
 # Simple To-Do List App
 
-created a simple to-do list app that can add, edit, save and delete. this to-do list app supports localStorage. 
+created a simple to-do list app that can add, edit, mark, save and delete. this to-do list app supports localStorage. 
 
 
 - Design not implemented yet.
